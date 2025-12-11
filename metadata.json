@@ -1,0 +1,7 @@
+{
+  "name": "Hokkaido Trip Planner",
+  "description": "A mobile-first PWA for Hokkaido winter travel planning, featuring itinerary management, expense tracking with GAS integration, and checklists.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
